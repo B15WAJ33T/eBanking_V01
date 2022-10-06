@@ -1,1 +1,2 @@
 This text file is test for git.
+I have made some changes to the file.
