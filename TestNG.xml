@@ -1,0 +1,22 @@
+
+
+<suite name="eBanking_V01" >
+	
+	<listeners>
+		<listerer class-name = "com.eBanking.Util.Reporting"/>"
+	</listeners>
+	
+	<test name ="BankingApp tset">
+		<parameter name= "browser" value="chrome"/>
+        <classes>
+        	 <!--<class name ="com.eBanking.TC.LoginTest_001"/>-->
+            <class name ="com.eBanking.TC.DDTest_001"/>
+            <!--<class name ="com.eBanking.TC.AddNewCustomer_TC_002"/>-->
+            
+        	
+        </classes>
+		
+		
+	</test>
+	
+</suite>

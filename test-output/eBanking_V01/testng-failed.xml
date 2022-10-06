@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [eBanking_V01]">
+  <test thread-count="5" name="BankingApp tset(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.eBanking.TC.AddNewCustomer_TC_002">
+        <methods>
+          <include name="browserSetup"/>
+          <include name="teardown"/>
+          <include name="addCustomer"/>
+        </methods>
+      </class> <!-- com.eBanking.TC.AddNewCustomer_TC_002 -->
+    </classes>
+  </test> <!-- BankingApp tset(failed) -->
+</suite> <!-- Failed suite [eBanking_V01] -->

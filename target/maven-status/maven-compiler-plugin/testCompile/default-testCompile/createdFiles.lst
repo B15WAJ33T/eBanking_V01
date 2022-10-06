@@ -1,0 +1,9 @@
+com\eBanking\TC\BaseClass.class
+com\eBanking\PO\AddCustomerDetailsPage.class
+com\eBanking\TC\LoginTest_001.class
+com\eBanking\Util\ConfigTest.class
+com\eBanking\PO\LoginPage.class
+com\eBanking\Util\Reporting.class
+com\eBanking\TC\DDTest_001.class
+com\eBanking\Util\ExcelData.class
+com\eBanking\TC\AddNewCustomer_TC_002.class
